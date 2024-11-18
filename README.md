@@ -1,6 +1,6 @@
 # group8_data_project_1
 
-This repo contains all code, datasets, output and presentation. Included below is the analysis from our Word document. 
+This repo contains all code, datasets, output and presentation. Included below is the analysis and conclusion from our Word document that can be found in the Presentation folder. 
 
 **Household Income + Inflation (Amy):**
  
@@ -52,6 +52,7 @@ Conversely, the relationship between supply and demand is much more direct. In 2
 These insights seem to suggest that now is a decent time to buy a home. Demand is on the rise but supply is still high.
 
 
-Unemployment Rate (Rafa):
+
+**Unemployment Rate (Rafa):**
 
 Unfortunately, it does look like there’s a huge gap between the unemployment market and fiscal growth. The USA Median house price seems to go hand and hand with how much our GPT is increasing or decreasing throughout the years. If the USA is exporting and capitalizing the house marketing lowers but if the USA is making less money than that which is spending the decreased of house purchases suggested that its value of median house holders being able to afford or not goes hand in hand with its debt problems.
