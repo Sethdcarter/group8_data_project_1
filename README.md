@@ -1,8 +1,8 @@
 # group8_data_project_1
 
-This repo contains all code, datasets, output and presentation. Included below is the analysis from our Word document. 
+This repo contains all code, datasets, output and presentation. Included below is the analysis and conclusion from our Word document that can be found in the Presentation folder. 
 
-Household Income + Inflation (Amy):
+**Household Income + Inflation (Amy):**
  
 •	Median Household Income does not increase at the same rate as Median House Price in the United States year over year
 •	Median House Prices may dip slightly from time to time, but looking at the greater picture overall, it always trends upwards
@@ -34,15 +34,17 @@ o	However, both follow the same positive or negative trend majority of the time.
 
 I also included the News API in my code to search for housing market articles that contained keywords “homeowners”, “income”, and “rate” and that were published between 10/01/2024 and today. Below are snippets of some relatable articles in making that could be helpful in a decision on if today is a good time to buy a house. 
 
+
  
-Interest Rates (Eduardo):
+**Interest Rates (Eduardo):**
 
 The major findings and implications I have gathered from the data, is that today is a great time to buy a home. Based on the data gathered, homes have been climbing in prices since 1971 to 2024. Comparing the average home interest rate date with the average median home price data, interest rates began to play a pivotal role in about the year 2000. Based on my observation every time the interest rate would lower the housing prices would respond by rising and when the interest rates would rise the home prices would respond by lowering the next year. For example, in 2000 to 2003 the interest rates drop from an average of 8.05% to 5.8% and held for 3 years at that rate and the rates rose to 6.4% in 2006. Home prices increase from an average of $165k in 2000 to $244k in 2007. And responded to drop again with the increase of interest rate in 2006 from $244k to $215k in 2009. This trend repeated in 2019 but in a more aggressive manner. From 2017 to 2020 the average median home price was set between $322k to $328k. In 2018 the average home interest rate was at 4.54% which had increase from 3.98% from 2017. From 2018 the rates drop to an all time low to 2.95% in 2021. The housing market then responded, and the average median home prices climbed from $328k in 2020 to $432K in 2022. After the rates drop to an all time low in 2021 the rates increase to 5.34% in 2022 and continue to increase to 6.71% in 2024. Now with the interest rate increase the home priced did have a decrease in pricing going from an all time high $432k in 2022 to $420K in 2024. This helps me prove that home prices are effect by home interest rates. 
 
 I think this current home market is a great time to buy a home because median home prices are trending downwards and are slowly trending downwards as well.
 
 
-Population Growth (Seth):
+
+**Population Growth (Seth):**
 
 Analyzing the impact of population growth and supply-demand dynamics on the housing market provides valuable insights for prospective homebuyers.
 First, population growth appears to have a minimal effect on housing supply. In 2020, population growth was below 0.2%, yet housing supply continued to increase at a consistent rate over the following three years. Similarly, in 2000, despite population growth exceeding 0.8% for nine consecutive years, housing supply maintained its gradual rise. While population growth does contribute to demand, it fluctuates only modestly and its long-term effects on the housing market unfold gradually.
@@ -50,6 +52,7 @@ Conversely, the relationship between supply and demand is much more direct. In 2
 These insights seem to suggest that now is a decent time to buy a home. Demand is on the rise but supply is still high.
 
 
-Unemployment Rate (Rafa):
+
+**Unemployment Rate (Rafa):**
 
 Unfortunately, it does look like there’s a huge gap between the unemployment market and fiscal growth. The USA Median house price seems to go hand and hand with how much our GPT is increasing or decreasing throughout the years. If the USA is exporting and capitalizing the house marketing lowers but if the USA is making less money than that which is spending the decreased of house purchases suggested that its value of median house holders being able to afford or not goes hand in hand with its debt problems.
